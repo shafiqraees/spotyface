@@ -297,35 +297,9 @@ defined('FIR') OR exit();
 		</div>
 	</section>	
 
-	<div class="testimonial5">
-	  <div class="container"> 
-		<!-- Row -->
-		<div class="row">
-			<h3 class="wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms"><?=e($this->theme_details('customers_title'))?></h3>
-		</div>
-		<!-- Row -->
-		<div class="owl-carousel owl-theme testi5 mt-4 text-center">
+	
 
-		   <?php foreach($data['customers'] as $row) { ?> 		
-
-			  <div class="item">
-				<div class="content">“<?=e($row['quote'])?>”</div>
-				<div class="customer-thumb">
-			      <img src="<?=$this->siteUrl().'/'.PUBLIC_PATH.'/'.UPLOADS_PATH?>/admin/customer/<?=e($row['imagelocation'])?>" alt="customer" class="img-circle" />
-				  <h6><?=e($row['name'])?></h6>
-				  <p><?=e($row['title'])?></p>
-				</div>
-			  </div>
-				
-			
-		   <?php } ?>			  
-		  
-		  
-		</div>
-	  </div>
-	</div>
-
-	 <div class="join-us">
+	 <div class="join-us testimonial5">
         <div class="container">
 		  <div class="join-box">
            <p><?=e($this->theme_details('join_us_title'))?></p>
