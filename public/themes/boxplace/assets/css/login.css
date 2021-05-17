@@ -146,7 +146,7 @@
  font-size: 18px !important;
 }
 .form-sign .checkbox label a{
- color: #00C4CF !important;	
+ color: #2c4a9f !important;	
 }
 
 /*Material Switch*/
@@ -179,7 +179,7 @@
     width: 60px;
 }
 .material-switch > label::after {
-    background: #00C4CF !important;
+    background: #2c4a9f !important;
     border-radius: 16px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
     content: '';
@@ -234,5 +234,5 @@
 }
 
 .material-switch > .label-success-mint{
-  background: #00C4CF !important;
+  background: #2c4a9f !important;
 }

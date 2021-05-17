@@ -56,7 +56,7 @@
     transition-duration: 0;
 }
 a.navbar-brand:hover {
-    color: #00C4CF !important;
+    color: #2c4a9f !important;
 }
 .navbar-brand img{
   float: left;
@@ -76,7 +76,7 @@ a.navbar-brand:hover {
 .navbar-default .navbar-nav>.active>a:focus, 
 .navbar-default .navbar-nav>.active>a:hover, 
 .tr-dropdown-menu li a:hover {
-    color: #00C4CF;
+    color: #2c4a9f  !important;
     background-color: transparent;
 }
 .navbar-default .navbar-nav>li>a {
@@ -94,7 +94,7 @@ a.navbar-brand:hover {
     transition-duration: 0;
 }
 .navbar-default .navbar-nav li a:hover{
-    color: #00C4CF !important;
+    color: #2c4a9f !important;
 }
 .navbar-default .navbar-nav li i{
     padding: 2px 0px;
@@ -109,7 +109,7 @@ a.navbar-brand:hover {
  font-size: 10px !important;
  padding: 4px 8px;
  border-radius: 50%;
- background: #00C4CF;
+ background: #2c4a9f  !important;
  color: #fff;
  text-align: center;
  position: relative;
@@ -1680,7 +1680,7 @@ transition: all 0.4s;
 .job-box h3.job-box-title {
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f  !important;
  line-height: 28px;
  cursor: pointer;
  font-weight: 700;
@@ -1920,7 +1920,7 @@ ul li {
 }	
 #footer-menu ul li a {
  font-family: "Poppins", sans-serif;
- color: #00C4CF;
+ color: #2c4a9f  !important;
  font-size: 16px;
  text-decoration: none;
  font-weight: 700;
@@ -2100,7 +2100,7 @@ ul li {
  margin-bottom: 30px;
  font-size: 20px;
  font-weight: 700;
- color: #00C4CF !important;
+ color: #2c4a9f  !important;
 }
 .single-page-section p {
  font-family: "Poppins", sans-serif;	
@@ -2223,7 +2223,7 @@ ul li {
 .freelancer-box h3{
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f  !important;
  line-height: 18px;
  cursor: pointer;
  font-weight: 700;
@@ -2233,7 +2233,7 @@ ul li {
  content: "\f19a";
  font-family: feathericon;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f  !important;
  margin-left: 10px;
 }
 
@@ -2493,7 +2493,7 @@ ul li {
     width: 100%;
 }
 .navbar-box ul li.active {
-    background: #00C4CF;
+    background: #2c4a9f  !important;
 }
 .navbar-box ul li.active a{
 	color: #fff !important;
@@ -2529,7 +2529,7 @@ ul li {
 		background: #fff;
 	}	
 	.navbar-box ul li.active a{
-		color: #00C4CF !important;
+		color: #2c4a9f !important;
 	}	
 	.navbar-box ul li{
     display: inline;
@@ -2733,7 +2733,7 @@ ul li {
 .about-box h3{
  font-family: "Poppins", sans-serif;
  font-size: 16px;
- color: #00C4CF;
+ color: #2c4a9f  !important;
  line-height: 18px;
  font-weight: 700;
  padding-top: 2px;
@@ -3043,7 +3043,7 @@ height:32px;
  font-size: 18px;
  line-height: 26px;
  font-weight: 700;
- color: #00C4CF !important;
+ color: #2c4a9f !important;
 }
 .dashboard .headline h5{
  font-family: "Poppins", sans-serif;
@@ -3112,7 +3112,7 @@ height:32px;
 .project-box a.project-title h3{
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f  !important;
  line-height: 28px;
  cursor: pointer;
  font-weight: 700;
@@ -3214,7 +3214,7 @@ color: #f46f80 !important;
 .project-bid .project-offers h4 {
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f ;
  display: block;
  font-weight: 600;
  line-height: 18px;
@@ -3310,7 +3310,7 @@ color: #f46f80 !important;
 .proposal-box h3{
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f ;
  line-height: 18px;
  cursor: pointer;
  font-weight: 700;
@@ -3320,7 +3320,7 @@ color: #f46f80 !important;
  content: "\f19a";
  font-family: feathericon;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f ;
  margin-left: 10px;
 }
 .proposal-box h4{
@@ -3461,7 +3461,7 @@ color: #f46f80 !important;
 	display: block;
 	font-size: 14px;
 	padding: 10px 30px 10px 30px;
-	background-color: #00C4CF;
+	background-color: #2c4a9f ;
 	-webkit-transform: rotate(30deg);
 	-moz-transform: rotate(30deg);
 	-ms-transform: rotate(30deg);
@@ -3481,7 +3481,7 @@ color: #f46f80 !important;
 .proposal-bid .proposal-offers h4 {
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f ;
  display: block;
  font-weight: 600;
  line-height: 18px;
@@ -3527,13 +3527,13 @@ color: #f46f80 !important;
 .add-box .form-group label{
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;	
+ color: #2c4a9f ;	
  margin-bottom: 10px;
 }
 .add-box h3.add-box-title{
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF !important;	
+ color: #2c4a9f  !important;	
  margin-bottom: 10px;
 }
 
@@ -3629,7 +3629,7 @@ width: 100%;
 .installation-box h3{
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF !important;	
+ color: #2c4a9f  !important;	
  margin-bottom: 10px;
 }
 .installation-box p{
@@ -3789,7 +3789,7 @@ width: 100%;
  font-weight: 700;
  font-size: 55px;
  line-height: 55px;
- color: #00C4CF !important;
+ color: #2c4a9f  !important;
  padding: 10px 0;
 }
 .pricing-box .price sup {
@@ -3816,7 +3816,7 @@ width: 100%;
 }
 .pricing-box p a{
  font-family: 'Abhaya Libre', serif;
- color: #00C4CF;
+ color: #2c4a9f ;
  font-size: 20px;
 }
 
@@ -3847,7 +3847,7 @@ width: 100%;
 .withdraw-box a.project-title h3{
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f ;
  line-height: 20px;
  cursor: pointer;
  font-weight: 700;
@@ -3882,7 +3882,7 @@ width: 100%;
 .withdraw-bid .withdraw-bid-inner h4 {
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f ;
  display: block;
  font-weight: 600;
  line-height: 18px;
@@ -3923,12 +3923,12 @@ width: 100%;
  color: #f1be5a !important; 
 }
 .modal .modal-header button{
- color: #00C4CF !important; 
+ color: #2c4a9f  !important; 
 }
 .modal .modal-body label{
  font-family: "Poppins", sans-serif;
  font-size: 16px;
- color: #00C4CF !important; 
+ color: #2c4a9f  !important; 
 }
 .modal .modal-body .form-control{
  font-family: "Poppins", sans-serif;
@@ -3936,7 +3936,7 @@ width: 100%;
  color: #848484 !important; 
 }
  .modal .modal-body .form-control:focus {
-  border: 1px solid #00C4CF;
+  border: 1px solid #2c4a9f ;
 }
 .modal .modal-body .field_notice{
  font-family: "Poppins", sans-serif;
@@ -3958,7 +3958,7 @@ width: 100%;
 .ratings-box .ratings-title{
  font-family: "Poppins", sans-serif;
  font-size: 20px;
- color: #00C4CF !important; 
+ color: #2c4a9f  !important; 
  line-height: 28px;
  padding-bottom: 20px;
 }
@@ -3991,7 +3991,7 @@ width: 100%;
 }
 .notfound h2 {
  font-family: "Poppins", sans-serif;
- color: #00C4CF;
+ color: #2c4a9f ;
  font-size: 24px;
  font-weight: 700;
  margin-top: 0;
@@ -4207,7 +4207,7 @@ width: 100%;
 .portfolio-information a h3{
  font-family: "Poppins", sans-serif;
  font-size: 14px;
- color: #00C4CF;
+ color: #2c4a9f ;
  line-height: 18px;
  cursor: pointer;
  font-weight: 700;
@@ -4218,7 +4218,7 @@ width: 100%;
  content: "\f19a";
  font-family: feathericon;
  font-size: 16px;
- color: #00C4CF;
+ color: #2c4a9f ;
  margin-left: 10px;
 }
 .portfolio-information h4{
@@ -4285,7 +4285,7 @@ width: 100%;
  letter-spacing: 1.5px;
 }
 .listing-nav ul li a.active {
- color: #00C4CF !important;
+ color: #2c4a9f  !important;
  font-weight: 600;
 }
 .listing-nav ul li a:hover {
@@ -4377,7 +4377,7 @@ width: 100%;
 .payment-box .payment-description h4{
  font-family: "Poppins", sans-serif;
  font-size: 18px;
- color: #00C4CF;
+ color: #2c4a9f ;
  line-height: 28px;
  font-weight: 700;
  padding-top: 2px;

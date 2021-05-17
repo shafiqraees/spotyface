@@ -11,7 +11,7 @@ defined('FIR') OR exit();
 					<div class="col-lg-3">
 						<div class="footer-wrapper">
 						    <div class="footer-logo">
-									<a href="<?=$this->siteUrl()?>"><img src="<?=$this->siteUrl().'/'.PUBLIC_PATH.'/'.UPLOADS_PATH?>/admin/logo/<?=e($this->siteSettings('logo'))?>" alt="logo"></a>
+									<a href="<?=$this->siteUrl()?>"><img src="<?=$this->siteUrl().'/'.PUBLIC_PATH.'/'.UPLOADS_PATH?>/admin/<?=e($this->siteSettings('logo'))?>" alt="logo"></a>
 								</div>
 							<div class="toolbox">
 							 <p><span style="color: #5e6d77;"><?=$this->lang('call_us')?></span></p>
