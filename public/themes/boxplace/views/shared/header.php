@@ -17,7 +17,7 @@ defined('FIR') OR exit();
 		  <span class="icon-bar"></span>
 		  <span class="icon-bar"></span>
 		 </button>
-		 <a href="<?=$this->siteUrl()?>" class="navbar-brand"><img src="<?=$this->siteUrl().'/'.PUBLIC_PATH.'/'.UPLOADS_PATH?>/admin/<?=e($this->siteSettings('logo'))?>" alt="Logo"  class="img-fluid" width="80" height="90"></a>
+		 <a href="<?=$this->siteUrl()?>" class="navbar-brand"><img src="<?=$this->siteUrl().'/'.PUBLIC_PATH.'/'.UPLOADS_PATH?>/admin/logo/<?=e($this->siteSettings('logo'))?>" alt="Logo"  class="img-fluid" width="80" height="90"></a>
 		</div><!-- /.navbar-header -->
 		<div class="navbar-left pull-center">
 		 <div class="collapse navbar-collapse" id="navbar-collapse">
